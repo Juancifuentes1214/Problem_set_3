@@ -1,5 +1,5 @@
 #Juan Camilo Cifuentes Mogollon 202011853
-#Santiago Rodrigues 202013402
+#Santiago Rodriguez 202013402
 # R version 4.2.1 (2022-06-23) -- "Funny-Looking Kid"
 #Taller 3 
 rm(list = ls())
